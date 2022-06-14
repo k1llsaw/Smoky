@@ -1,0 +1,9 @@
+.socials {
+    display: flex;
+    list-style: none;
+}
+
+.socials__item img {
+    display: block;
+    padding: 8px;
+}
