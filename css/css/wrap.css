@@ -1,0 +1,9 @@
+.wrap {
+    width: 90%;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
+.wrap_min {
+    max-width: 1090px;
+}
